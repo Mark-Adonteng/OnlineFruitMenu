@@ -1,0 +1,15 @@
+body{
+  justify-items: center;
+  align-items: center;
+  margin-top: 12rem;
+  margin-left: 35rem;
+ 
+}
+form{
+  line-height: 2;
+}
+
+.search{
+ border-radius: 1rem;
+ height:2rem;
+}
